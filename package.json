@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-docker-template",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/gmahota/nodejs-docker-template.git",
+  "scripts": {
+    "test": "nodemon .",
+    "start": "node ."
+  },
+  "author": "Guimarães Mahota <guimaraesmahota@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
